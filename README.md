@@ -5,7 +5,7 @@
     <a href="https://github.com/char26">GitHub</a>
 </div>
 <br>
-MS CS&E student at UCSC. Self-motivated learner and Software Engineer. Experience in database systems, development operations, RESTful API development, and software/database testing. Passionate about all things technology.
+M.S. CS&E student at UCSC. Self-motivated Software Engineer with experience in database systems, DevOps, RESTful API development, and software testing. Passionate about data and technology, focusing on scalable, efficient solutions.
 
 ## SKILLS
 Python, JavaScript/TypeScript, bash/zsh, Linux, Git/GitHub, Docker, Google Cloud, Flask, Cypher Query Language, Graph Databases, Web Development, SQL, Jenkins, and basic Java/C++
@@ -30,6 +30,15 @@ Specialization in Project Management \
 Dean's List | Graduated Magna Cum Laude | 3.93 GPA
 
 ## EXPERIENCE
+**Teacher's Assistant - CSE111 (Advanced Programming)** \
+University of California, Santa Cruz – Santa Cruz, CA \
+Winter 2025
+
+**Auto-grader Research Lab (Expected Capstone Project)** \
+University of California, Santa Cruz – Santa Cruz, CA \
+Winter 2025
+- Contribute to a Python-based auto-grader system used by thousands of students across six
+courses, providing immediate feedback on submitted assignments.
 
 **Software Engineer** \
 X5E, Inc. - Remote \
@@ -39,10 +48,6 @@ Apr 2023 - Present
 - Oversee all development operations by utilizing GitHub actions, Docker, and Jenkins to automate builds and tests across multiple operating systems and architectures.
     - Automate package publishing and documentation generation utilizing language specific tools (e.g. readthedocs).
 - Create and optimize algorithms for data retrieval, creation, and synchronization using indexes and red-black trees.
-
-**Cook** \
-It's Boba Time - Los Angeles, CA \
-Sep 2022 – Jul 2023
 
 **Administrative Assistant** \
 SmarTax & Accounting - Centennial, CO \
