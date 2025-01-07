@@ -30,15 +30,10 @@ Specialization in Project Management \
 Dean's List | Graduated Magna Cum Laude | 3.93 GPA
 
 ## EXPERIENCE
-**Teacher's Assistant - CSE111 (Advanced Programming)** \
+**Teaching Assistant** \
 University of California, Santa Cruz – Santa Cruz, CA \
-Winter 2025
-
-**Auto-grader Research Lab (Expected Capstone Project)** \
-University of California, Santa Cruz – Santa Cruz, CA \
-Winter 2025
-- Contribute to a Python-based auto-grader system used by thousands of students across six
-courses, providing immediate feedback on submitted assignments.
+Jan 2025 - Present
+- CSE111 (Advanced Programming C++)
 
 **Software Engineer** \
 X5E, Inc. - Remote \
