@@ -1,3 +1,3 @@
 # Charles Alders - Resume
 
-Hosted on GitHub Pages - <a href="resume.charliealders.com" target="_blank">Click here</a>
+Hosted on GitHub Pages - <a href="https://resume.charliealders.com" target="_blank">Click here</a>
